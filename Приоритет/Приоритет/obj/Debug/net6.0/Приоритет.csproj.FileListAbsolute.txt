@@ -1,0 +1,15 @@
+C:\Users\ilruz\source\repos\Приоритет\Приоритет\obj\Debug\net6.0\Приоритет.csproj.AssemblyReference.cache
+C:\Users\ilruz\source\repos\Приоритет\Приоритет\obj\Debug\net6.0\Приоритет.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilruz\source\repos\Приоритет\Приоритет\obj\Debug\net6.0\Приоритет.AssemblyInfoInputs.cache
+C:\Users\ilruz\source\repos\Приоритет\Приоритет\obj\Debug\net6.0\Приоритет.AssemblyInfo.cs
+C:\Users\ilruz\source\repos\Приоритет\Приоритет\obj\Debug\net6.0\Приоритет.csproj.CoreCompileInputs.cache
+C:\Users\ilruz\source\repos\Приоритет\Приоритет\bin\Debug\net6.0\Приоритет.exe
+C:\Users\ilruz\source\repos\Приоритет\Приоритет\bin\Debug\net6.0\Приоритет.deps.json
+C:\Users\ilruz\source\repos\Приоритет\Приоритет\bin\Debug\net6.0\Приоритет.runtimeconfig.json
+C:\Users\ilruz\source\repos\Приоритет\Приоритет\bin\Debug\net6.0\Приоритет.dll
+C:\Users\ilruz\source\repos\Приоритет\Приоритет\bin\Debug\net6.0\Приоритет.pdb
+C:\Users\ilruz\source\repos\Приоритет\Приоритет\obj\Debug\net6.0\Приоритет.dll
+C:\Users\ilruz\source\repos\Приоритет\Приоритет\obj\Debug\net6.0\refint\Приоритет.dll
+C:\Users\ilruz\source\repos\Приоритет\Приоритет\obj\Debug\net6.0\Приоритет.pdb
+C:\Users\ilruz\source\repos\Приоритет\Приоритет\obj\Debug\net6.0\Приоритет.genruntimeconfig.cache
+C:\Users\ilruz\source\repos\Приоритет\Приоритет\obj\Debug\net6.0\ref\Приоритет.dll
